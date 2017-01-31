@@ -2,6 +2,8 @@
 
 This is taken from Scotch.io. I started with the tutorial at https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4 and modified as needed to serve as my own personal sandbox.  Need to complete the rest of the README.md :)
 
+(ProTip! Use the URL for this page when adding GitHub as a remote. https://github.com/suehaas/bears)
+
 ## Code Example
 
 Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
@@ -13,6 +15,9 @@ A short description of the motivation behind the creation and maintenance of the
 ## Installation
 
 Provide code examples and explanations of how to get the project.
+
+https://github.com/suehaas/bears
+
 
 ## API Reference
 
